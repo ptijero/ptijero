@@ -1,5 +1,8 @@
 # 💫 About Me:
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 "Todos los dias se aprende, un día que no aprendes algo nuevo es un día perdido"<br><br>Programador Full Stack, entusiasta de los retos.! :D <br><br>Hola :D , espero estes teniendo un excelente día. El como llegaste aquí es un misterio para mi<br>Pero dejame presentarme.<br><br>Me llamo Paul, Soy un desarrollador de software  con más de 5 años de experiencia en el sector,<br>uff como vuela el tiempo. He trabajado en diversos proyectos desde dando soporte/mantenimiento y<br>elaborando muchos proyectos desde 0 , como ERP o un sistema para la alerta temprana a agricultores <br>analizando data recolectada desde estaciones meteorológicas (Uf Ese proyecto me encanto). <br><br>Si vas a ser mi compañero en alguno de estos desafios, tendras que serlo hasta el final jeje.<br>Porqué si comenzamos algo , no se para hasta terminarlo!! :D <br><br> Saludos! :D 
+
+
 
 
 ## 🌐 Socials:
